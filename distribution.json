@@ -1,0 +1,32 @@
+Wszystkie pliki (.)
+{
+  "version": "1.0.0",
+  "servers": [
+    {
+      "id": "mojserwer",
+      "name": "Mój Serwer Fabric 1.21.4",
+      "description": "Opis Twojego serwera dla graczy",
+      "icon": "https://link-do-twojej-grafiki.pl",
+      "version": "1.21.4",
+      "address": "ip.twojego.serwera.pl:25565",
+      "discord": {
+        "shortId": "123456789",
+        "largeImageText": "Gram na serwerze"
+      },
+      "mainServer": true,
+      "modules": [
+        {
+          "id": "fabric-loader",
+          "name": "Fabric Loader",
+          "type": "Library",
+          "required": true,
+          "artifact": {
+            "url": "https://fabricmc.net",
+            "size": 0,
+            "MD5": ""
+          }
+        }
+      ]
+    }
+  ]
+}
