@@ -5,7 +5,6 @@
       "id": "mojserwer",
       "name": "Mój Serwer Fabric 1.21.4",
       "description": "Opis Twojego serwera dla graczy",
-      "icon": "https://link-do-twojej-grafiki.pl",
       "version": "1.21.4",
       "address": "ip.twojego.serwera.pl:25565",
       "discord": {
